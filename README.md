@@ -62,7 +62,7 @@ print(f"# Gita Shlok from chapter {chapter}, verse {verse}.\n")
 
 1. Ensure you have Python installed on your system.
 2. Install the required packages by running `pip install -r requirements.txt`.
-3. Run the script using `python bhagavad_gita_verse_generator.py`.
+3. Run the script using `python main.py`.
 4. The script will output a randomly selected verse from the Bhagavad Gita.
 
 Feel free to explore and customize the script as needed. Enjoy exploring the wisdom of the Bhagavad Gita!
